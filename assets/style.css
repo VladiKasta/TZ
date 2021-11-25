@@ -71,7 +71,7 @@ body{
     
 }
 .form_1{
-    background-image: url(img/1.jpg);
+    background-image: url(..img/1.jpg);
     background-position: top 20% right 20%;
     background-size: 230%;
     background-repeat: no-repeat;
@@ -79,7 +79,7 @@ body{
 }
 
 .form_2{
-    background-image: url(img/2.jpg);
+    background-image: url(..img/2.jpg);
     margin-left: 30px;
     margin-right: 30px;
     background-position:bottom 95% left 90%;
@@ -91,7 +91,7 @@ body{
 }
 
 .form_3{
-    background-image: url(img/4.jpg);
+    background-image: url(..img/4.jpg);
     background-position: center top 0;
     background-size: 290%;
     background-repeat: no-repeat;
